@@ -1,3 +1,60 @@
+@font-face {
+    font-family: CooperHewitt-Bold;
+    src: "./fonts/CooperHewitt-Bold.otf";
+}
+@font-face {
+    font-family: CooperHewitt-BoldItalic;
+    src: "./fonts/CooperHewitt-BoldItalic.otf";
+}
+@font-face {
+    font-family: CooperHewitt-Book;
+    src: "./fonts/CooperHewitt-Book.otf";
+}
+@font-face {
+    font-family: CooperHewitt-BookItalic;
+    src: "./fonts/CooperHewitt-BookItalic.otf";
+}
+@font-face {
+    font-family: CooperHewitt-Heavy;
+    src: "./fonts/CooperHewitt-Heavy.otf";
+}
+@font-face {
+    font-family: CooperHewitt-HeavyItalic;
+    src: "./fonts/CooperHewitt-HeavyItalic.otf";
+}
+@font-face {
+    font-family: CooperHewitt-Light;
+    src: "./fonts/CooperHewitt-Light.otf";
+}
+@font-face {
+    font-family: CooperHewitt-LightItalic;
+    src: "./fonts/CooperHewitt-LightItalic.otf";
+}
+@font-face {
+    font-family: CooperHewitt-Medium;
+    src: "./fonts/CooperHewitt-Medium.otf";
+}
+@font-face {
+    font-family: CooperHewitt-MediumItalic;
+    src: "./fonts/CooperHewitt-MediumItalic.otf";
+}
+@font-face {
+    font-family: CooperHewitt-Semibold;
+    src: "./fonts/CooperHewitt-Semibold.otf";
+}
+@font-face {
+    font-family: CooperHewitt-SemiboldItalic;
+    src: "./fonts/CooperHewitt-SemiboldItalic.otf";
+}
+@font-face {
+    font-family: CooperHewitt-Thin;
+    src: "./fonts/CooperHewitt-Thin.otf";
+}
+@font-face {
+    font-family: CooperHewitt-ThinItalic;
+    src: "./fonts/CooperHewitt-ThinItalic.otf";
+}
+
 body {
     background: linear-gradient(to right, #023A51 , #00ADEF);
 }
