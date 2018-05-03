@@ -1,38 +1,4 @@
-<!DOCTYPE html>
-<html lang="en">
-
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta http-equiv="X-UA-Compatible" content="ie=edge">
-    <!-- Materialize Link -->
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/materialize/1.0.0-beta/css/materialize.min.css">
-    <!-- CSS Link -->
-    <link rel="stylesheet" href="./assets/style.css">
-    <title>Hungry Coyote</title>
-</head>
-
-<body>
-    <div class="container">
-        <!-- Header containing the ACME logo and the Hungry Coyote Logo-->
-        <!-- ACME logo -->
-        <?xml version="1.0" encoding="UTF-8"?>
-        <svg width="78px" height="22px" viewBox="0 0 78 22" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-            <!-- Generator: Sketch 49.3 (51167) - http://www.bohemiancoding.com/sketch -->
-            <title>ACME</title>
-            <desc>Created with Sketch.</desc>
-            <defs></defs>
-            <g id="Documentation" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" font-family=".SFNSDisplay, .SF NS Display"
-                font-size="29" font-weight="normal" letter-spacing="0.0515555143">
-                <g id="7.-Monday" transform="translate(-80.000000, -22.000000)" fill="#FFFFFF">
-                    <text id="ACME">
-                        <tspan x="80" y="43">ACME</tspan>
-                    </text>
-                </g>
-            </g>
-        </svg>
-        <!-- Hungry Coyote Logo -->
-        <?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <svg width="234px" height="40px" viewBox="0 0 234 40" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
     <!-- Generator: Sketch 49.3 (51167) - http://www.bohemiancoding.com/sketch -->
     <title>Group 2</title>
@@ -61,15 +27,3 @@
         </g>
     </g>
 </svg>
-        <!-- Body Containing 3 Card Panels-->
-        <!-- Eat on Site Card -->
-        <!-- Order for Delivery Card -->
-        <!-- Pay With Card Card -->
-        <!-- Footer Containing 3 Card Panel Scrollables -->
-        <!-- What You Got Last Time -->
-        <!-- Last Restaurant Delivery -->
-        <!-- Last Card Transaction -->
-    </div>
-</body>
-
-</html>
